@@ -14,4 +14,4 @@ A python script to search, extract and download any book from the Library Genesi
 * Open command line and cd to the folder with the xkcdspider.py file.
 * Type `python xkcdspider.py` and hit Enter.
 
-![alt text](https://i.postimg.cc/Lhg7qctN/Screenshot-51.png)
+![Alt text](Screenshot(53).png)
