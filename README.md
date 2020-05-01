@@ -1,6 +1,17 @@
 # CLI-Automated--book-extracter
 A python script to search, extract and download any book from the Library Genesis database using the command line. 
 
-requirements - bs4, urllib, requests
+# Requirements
+`pip install bs4`
+
+`pip install urllib`
+
+`pip install requests`
 
 
+### Installing
+* Clone the repo.
+* Open command line and cd to the folder with the xkcdspider.py file.
+* Type `python xkcdspider.py` and hit Enter.
+
+![alt text](https://i.postimg.cc/Lhg7qctN/Screenshot-51.png)
