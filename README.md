@@ -1,5 +1,9 @@
 # CLI-Automated--book-extracter
-A python script to search, extract and download any book from the Library Genesis database using the command line. 
+A CLI app which :
+1) Scrapes data from the Library Genesis Database
+2) Downloads the data as files locally
+3) Maintains the files as books in a library using the sqlite database and answers book related queries
+4) Uses the GoogleBooks API to display cool information about the books
 
 # Requirements
 `pip install bs4`
@@ -16,16 +20,3 @@ A python script to search, extract and download any book from the Library Genesi
 * Type `python xkcdspider.py` and hit Enter.
 * The script will run.
 
-![ss](a.png?raw=true)
-
-If the `.py` file doesnt run in the command line, you can try to run it in your IDE's integrated terminal.
-
-![ss](c.png?raw=true)
-
-### Downloads
-The extracted books will be available in the workspace folder alongside the `xkcdspider.py` file.
-
-![ss](b.png?raw=true)
-
-
-`Code On. Read On.`
