@@ -1,4 +1,4 @@
-# CLI-Automated--book-extracter
+# bookhell
 A CLI app which :
 1) Scrapes data from the Library Genesis Database
 2) Downloads the data as files locally
