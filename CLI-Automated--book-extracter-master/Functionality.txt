@@ -1,0 +1,20 @@
+Basic Functionalities :
+
+    Search Books
+    Download Books
+
+Database Functionalities :
+
+    Add Books
+    Query All Books
+    Query by Book Name
+    Query by Author
+
+
+API Functionalities :
+
+    Display the description from GoogleBooks
+    Display the GoogleBooks rating
+
+
+
