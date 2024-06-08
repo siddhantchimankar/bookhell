@@ -1,4 +1,5 @@
 
+import os
 import sqlite3
 
 CREATE_BOOKS_TABLE = "CREATE TABLE IF NOT EXISTS bookDB (id INTEGER PRIMARY KEY, title TEXT, author TEXT, pages INTEGER);"

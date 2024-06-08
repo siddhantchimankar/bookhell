@@ -8,7 +8,7 @@ def apisearch(title) :
     return generate_result(link)
 
 def generate_result(link) :
-    response = requests.get(link).json()
+    response = requests.get(link, verify=False).json()
 
     #print(json.dumps(response["items"][0]["volumeInfo"], indent = 8))
     
