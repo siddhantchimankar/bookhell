@@ -1,9 +1,17 @@
+![Shellbook](c.png)
+
 # shellbook
-A CLI app which :
+A GUI app which :
 1) Scrapes data from the Library Genesis Database
 2) Downloads the data as files locally
 3) Maintains the files as books in a library using the sqlite database and answers book related queries
 4) Uses the GoogleBooks API to display cool information about the books
+
+# Gallery
+![Shellbook](a.png)
+![Shellbook](b.png)
+
+
 
 # Requirements
 `pip install bs4`
